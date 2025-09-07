@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/861/github-repos-manager)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/861/github-repos-manager)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/861/github-repos-manager)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/861/github-repos-manager)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/861/github-repos-manager)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/861/github-repos-manager)
+
 # ![github-svgrepo-logo](https://github.com/user-attachments/assets/24b48a9d-8d00-4212-921e-c0c4ddc223b6) GitHub Repos Manager MCP Server
 
 **Token-based GitHub automation management. No Docker for optimal performance, Flexible configuration for fine-grained control, 89 tools with direct API integration.**
